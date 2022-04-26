@@ -26,3 +26,7 @@ Coming into this class I have never used GitHub before and being able to add ano
 My review blog was on the project [Southern Mosaic](https://adityajain15.github.io/lomax/). For the first time I was able to analyze a very comprehensive DH project and rationalize the workload it takes to accomplish a  significant DH project.
 
 ![Screenshot of Souther Mosaic Starting Title](https://Mmart04.github.io/BlogMart/images/SouthernMosaic.png)
+
+## Conclusion
+
+Overall, this course has allowed me to develop new skills and allowed me to expand my writing abilities. When I chose the digital humanities minor and chose this course, my goal was to learn new programs that were not offered in my major and expand my scholarly knowledge. This is one of the last courses of my collegiate life since I will be graduating in May 2022. I am pleased and excited for the road ahead since I feel that this course has further developed my writing ability to the caliber necessary for my future. Additionally, this course helped me expand the type of academic information I was receiving. Being a business administration major with a concentration in marketing, there is little if any overlap within digital humanities. Lastly, now that this class has concluded, I feel that I can officially claim myself as a true digital humanist.
