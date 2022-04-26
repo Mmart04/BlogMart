@@ -13,3 +13,9 @@ My final definition, reflecting on the course, is as follows, “Digital humanit
 Since this class is a writing-intensive course, the readings did not have the same influence on my understanding of DH as they once did in the intro to digital humanities course. I felt that this course’s readings did a very good job of informing me how to use certain programs like GitHub. Additionally, the readings provided guidance to our whole class on how to write a grant and follow certain guidelines for it to be taken as a serious submission. 
 
 ![Screenshot of Martorano's Twitter regarding the Gorsevski reading](https://Mmart04.github.io/BlogMart/images/GorsevskiTweet.png)
+
+“What Goes Inside a Typical Grant Proposal” by Ellen W. Gorsevski, was a pivotal reading in my journey in writing my grant proposal. As shown in the tweet above, that reading allowed me to realize that within a grant proposal, the finite details are the parts that separate a good grant from a great grant.
+
+Lastly, one reading that stood out among the rest was “Shitty First Drafts” by Anne Lamott. This was the most widely applicable reading throughout this course. I wish that it was earlier in the course material because it challenges the way in which I typically write papers. Usually, I try to make my first draft as perfect as possible since it leads to more minor editing later. Lamott points out that getting all the ideas down and then trimming them could be very useful. Her perspective on the first draft did not change how I write my first draft, but how I prepare to write it. Now my outlining phase is much longer and more in-depth in order to narrow down into the key ideas.
+
+##Assignments
