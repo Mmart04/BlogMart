@@ -6,9 +6,7 @@ As I began my journey into the expansive realm of digital humanities, I was real
 
 My final definition, reflecting on the course, is as follows, “Digital humanities is the use of modern-day technologies to connect multiple disciplines. Furthermore, digital humanities is an avenue to make older material and studies more accessible in modern society. Digital humanities use technology to inform and/or persuade its intended audience.” Informing and persuading were the two most common messages in all of the projects seen in class, so it seemed necessary to include them within the definition itself. 
 
-##Readings
-
-![Picture of the GitHub Offical Logo](https://Mmart04.github.io/BlogMart/images/githublogo.png)
+## Readings
 
 Since this class is a writing-intensive course, the readings did not have the same influence on my understanding of DH as they once did in the intro to digital humanities course. I felt that this course’s readings did a very good job of informing me how to use certain programs like GitHub. Additionally, the readings provided guidance to our whole class on how to write a grant and follow certain guidelines for it to be taken as a serious submission. 
 
@@ -18,4 +16,13 @@ Since this class is a writing-intensive course, the readings did not have the sa
 
 Lastly, one reading that stood out among the rest was “Shitty First Drafts” by Anne Lamott. This was the most widely applicable reading throughout this course. I wish that it was earlier in the course material because it challenges the way in which I typically write papers. Usually, I try to make my first draft as perfect as possible since it leads to more minor editing later. Lamott points out that getting all the ideas down and then trimming them could be very useful. Her perspective on the first draft did not change how I write my first draft, but how I prepare to write it. Now my outlining phase is much longer and more in-depth in order to narrow down into the key ideas.
 
-##Assignments
+## Assignments
+
+
+
+![Picture of the GitHub Offical Logo](https://Mmart04.github.io/BlogMart/images/githublogo.png)
+
+Coming into this class I have never used GitHub before and being able to add another program to my arsenal is great and definitely the best part of this class. Of the four research blogs, my favorite was the ‘Review Blog’. The review blog assignment was our chance as a class to analyze accomplished DH projects and find what makes each project so exceptional.
+My review blog was on the project [Southern Mosaic](https://adityajain15.github.io/lomax/). For the first time I was able to analyze a very comprehensive DH project and rationalize the workload it takes to accomplish a  significant DH project.
+
+![Screenshot of Souther Mosaic Starting Title](https://Mmart04.github.io/BlogMart/images/SouthernMosaic.png)
