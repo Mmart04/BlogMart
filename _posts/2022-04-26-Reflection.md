@@ -6,4 +6,10 @@ As I began my journey into the expansive realm of digital humanities, I was real
 
 My final definition, reflecting on the course, is as follows, “Digital humanities is the use of modern-day technologies to connect multiple disciplines. Furthermore, digital humanities is an avenue to make older material and studies more accessible in modern society. Digital humanities use technology to inform and/or persuade its intended audience.” Informing and persuading were the two most common messages in all of the projects seen in class, so it seemed necessary to include them within the definition itself. 
 
+##Readings
+
 ![Picture of the GitHub Offical Logo](https://Mmart04.github.io/BlogMart/images/githublogo.png)
+
+Since this class is a writing-intensive course, the readings did not have the same influence on my understanding of DH as they once did in the intro to digital humanities course. I felt that this course’s readings did a very good job of informing me how to use certain programs like GitHub. Additionally, the readings provided guidance to our whole class on how to write a grant and follow certain guidelines for it to be taken as a serious submission. 
+
+![Screenshot of Martorano's Twitter regarding the Gorsevski reading](https://Mmart04.github.io/BlogMart/images/GorsevskiTweet.png)
